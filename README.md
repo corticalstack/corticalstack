@@ -2,8 +2,8 @@
 
 Hi. I'm JP
 
-# Why I started this GitHub Repository. 
-### In the rapidly evolving landscape of artificial intelligence, this repository serves as my laboratory for pushing boundaries at the intersection of human creativity and machine intelligence. My GitHub houses experiments, learnings, and practical implementations across classical, generative, and agentic systems.
+# Why I'm here. 
+### In the rapidly evolving landscape of artificial intelligence, this hub serves as my laboratory for pushing boundaries at the intersection of human creativity and machine intelligence. My GitHub houses experiments, learnings, and practical implementations across classical, generative, and agentic systems.
 
 # AI Frameworks and Libraries
 
