@@ -1,4 +1,4 @@
-![Alt Hi. I'm JP!](https://github.com/corticalstack/sorticalstack/blob/main/agents.jpg?raw=true)
+![Alt Hi. I'm JP!](https://github.com/corticalstack/corticalstack/blob/main/agents.jpg?raw=true)
 
 Hi. I'm JP
 
