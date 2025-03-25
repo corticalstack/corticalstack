@@ -1,4 +1,4 @@
-![Alt Hi. I'm JP!](https://github.com/ruvnet/ruvnet/blob/main/assets/pp.png?raw=true)
+![Alt Hi. I'm JP!](https://github.com/ruvnet/ruvnet/blob/main/agents.jpg?raw=true)
 
 Hi. I'm JP
 
