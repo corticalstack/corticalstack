@@ -14,7 +14,7 @@ Hi. I'm JP
 | Azure AI Foundry examples | [Link](https://github.com/corticalstack/azure-ai-foundry-examples) |
 | A hands-on tutorial series on building advanced Retrieval-Augmented Generation (RAG) systems using LlamaIndex | [Link](https://github.com/corticalstack/deeplearning-agentic-rag-llamaindex) |
 | A comprehensive toolkit and collection of examples for working with Large Language Models (LLMs) | [Link](https://github.com/corticalstack/genai-playground) |
-| Discover Healthsearch: Unlocking Health with Semantic Search ✨ | [Link](https://github.com/corticalstack/healthsearch-demo-streamlit) |
+| Discover Healthsearch: Unlocking Health with Semantic Search | [Link](https://github.com/corticalstack/healthsearch-demo-streamlit) |
 | A comprehensive collection of examples and utilities for working with LangChain, a framework for LLM applications | [Link](https://github.com/corticalstack/langchain-basics) |
 | A sophisticated customer support chatbot for airlines built with LangGraph and LangChain | [Link](https://github.com/corticalstack/langgraph-customer-support-bot) |
 | A hands-on course exploring the implementation and application of memory systems for Large Language Model agents | [Link](https://github.com/corticalstack/llm-agent-memory-letta) |
