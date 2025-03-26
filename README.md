@@ -5,14 +5,7 @@ Hi. I'm JP
 # Why I'm here. 
 ### In the rapidly evolving landscape of artificial intelligence, this hub serves as my laboratory for pushing boundaries at the intersection of human creativity and machine intelligence. My GitHub houses experiments, learnings, and practical implementations across classical, generative, and agentic systems.
 
-# AI Frameworks and Libraries
-
-Projects focused on building AI frameworks, libraries, and tools to enhance AI capabilities.
-
-| Project/Description | GitHub |
-| --- | --- |
-
-## Generative AI
+# Generative AI
 
 | Project/Description | GitHub |
 | --- | --- |
@@ -29,7 +22,7 @@ Projects focused on building AI frameworks, libraries, and tools to enhance AI c
 | A comprehensive tutorial series on building multi-agent systems using the CrewAI framework | [Link](https://github.com/corticalstack/llm-agents-crewai) |
 | A comprehensive semantic search solution for Azure Machine Learning | [Link](https://github.com/corticalstack/azure-semantic-search-demo) |
 
-## Classical Machine Learning
+# Classical Machine Learning
 
 | Project/Description | GitHub |
 | --- | --- |
@@ -50,7 +43,7 @@ Projects focused on building AI frameworks, libraries, and tools to enhance AI c
 | A comprehensive machine learning framework for network intrusion detection using the KDD Cup 1999 dataset | [Link](https://github.com/corticalstack/KDDCup1999) |
 | KDD Cup 2009 - Customer Relationship Prediction | [Link](https://github.com/corticalstack/KDDCup2009) |
 
-## Natural Language Processing
+# Natural Language Processing
 
 | Project/Description | GitHub |
 | --- | --- |
@@ -58,7 +51,7 @@ Projects focused on building AI frameworks, libraries, and tools to enhance AI c
 | A Natural Language Processing (NLP) application that converts English language queries into SQL | [Link](https://github.com/corticalstack/NLPPythonToSQL) |
 | Assistant answering questions in near real-time with streaming | [Link](https://github.com/corticalstack/streaming-streamlit-fastapi-langchain-azureopenai) |
 
-## Data Science & Analytics
+# Data Science & Analytics
 
 | Project/Description | GitHub |
 | --- | --- |
@@ -68,7 +61,7 @@ Projects focused on building AI frameworks, libraries, and tools to enhance AI c
 | A demonstration of various under and over-sampling techniques for handling imbalanced class distributions | [Link](https://github.com/corticalstack/Sampling) |
 | A demonstration of various scaling techniques for machine learning models | [Link](https://github.com/corticalstack/Scaling) |
 
-## Robotics & Simulation
+# Robotics & Simulation
 
 | Project/Description | GitHub |
 | --- | --- |
@@ -76,7 +69,7 @@ Projects focused on building AI frameworks, libraries, and tools to enhance AI c
 | A robotics simulation framework for autonomous search and rescue operations using the V-REP | [Link](https://github.com/corticalstack/vrep-search-rescue) |
 | VREP wall follower using PID controller | [Link](https://github.com/corticalstack/vrep-wall-follower-pid) |
 
-## Fuzzy Logic & Optimization
+# Fuzzy Logic & Optimization
 
 | Project/Description | GitHub |
 | --- | --- |
@@ -84,19 +77,19 @@ Projects focused on building AI frameworks, libraries, and tools to enhance AI c
 | A flexible and extensible framework for implementing, testing, and comparing various heuristic optimization algorithms | [Link](https://github.com/corticalstack/heuristic-optimization-platform) |
 | A comprehensive Python implementation of fuzzy logic concepts using the scikit-fuzzy library | [Link](https://github.com/corticalstack/fuzzy-logic) |
 
-## System Tools
-
-| Project/Description | GitHub |
-| --- | --- |
-| Corsair Commander Pro Controller Python script for Linux | [Link](https://github.com/corticalstack/corsair_commander_pro_ctl) |
-
-## SQL & Databases
+# SQL & Databases
 
 | Project/Description | GitHub |
 | --- | --- |
 | A comprehensive collection of SQL examples demonstrating various SQL concepts and operations | [Link](https://github.com/corticalstack/sql-deep-dive) |
 
-## Miscellaneous
+# System Tools
+
+| Project/Description | GitHub |
+| --- | --- |
+| Corsair Commander Pro Controller Python script for Linux | [Link](https://github.com/corticalstack/corsair_commander_pro_ctl) |
+
+# Miscellaneous
 
 | Project/Description | GitHub |
 | --- | --- |
