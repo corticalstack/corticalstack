@@ -19,7 +19,7 @@
 # Classical Machine Learning
 | Project/Description | GitHub |
 | --- | --- |
-| 🦠 A comprehensive platform for exploring COVID-19 research literature and vaccine development data | [Link](https://github.com/corticalstack/covid-leap) |
+| 🦠 A comprehensive platform for exploring COVID-19 research literature and tracking vaccine development climical trial data | [Link](https://github.com/corticalstack/covid-leap) |
 | 🎬 A neural network-based classifier for IMDB movie reviews sentiment analysis using Keras | [Link](https://github.com/corticalstack/ANNImdbClassifier) |
 | 🔢 Keras net for MNIST (National Institute Standards Technology) digits classification | [Link](https://github.com/corticalstack/ANNMNIST) |
 | 🧮 A simple Artificial Neural Network (ANN) Perceptron implementation with comprehensive visualization | [Link](https://github.com/corticalstack/ANNPerceptronVizExample) |
@@ -59,7 +59,7 @@
 | Project/Description | GitHub |
 | --- | --- |
 | 🏭 A platform for solving Flow Shop Scheduling Problems using various heuristic optimization algorithms | [Link](https://github.com/corticalstack/flow-shop-scheduling-problem) |
-| 🧩 A flexible and extensible framework for implementing, testing, and comparing various heuristic optimization algorithms | [Link](https://github.com/corticalstack/heuristic-optimization-platform) |
+| 🧩 HOP, a flexible and extensible hyperheuristics framework for implementing, testing, and comparing various heuristic optimization algorithms | [Link](https://github.com/corticalstack/heuristic-optimization-platform) |
 | 🌫️ A comprehensive Python implementation of fuzzy logic concepts using the scikit-fuzzy library | [Link](https://github.com/corticalstack/fuzzy-logic) |
 # SQL & Databases
 | Project/Description | GitHub |
