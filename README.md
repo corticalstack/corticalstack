@@ -1,6 +1,5 @@
 ![Alt Hi. I'm JP!](https://github.com/corticalstack/corticalstack/blob/main/dnacyberstack.png?raw=true)
-Hi. I'm JP
-# Why I'm here.
+# Hi. I'm JP.
 ### In the rapidly evolving landscape of artificial intelligence, this hub serves as my laboratory for pushing boundaries at the intersection of human creativity and machine intelligence. My GitHub houses experiments, learnings, and practical implementations across classical, generative, and agentic systems.
 # Generative AI
 | Project/Description | GitHub |
