@@ -19,6 +19,7 @@
 # Classical Machine Learning
 | Project/Description | GitHub |
 | --- | --- |
+| 🧠 A step-by-step guide to building and deploying diabetes prediction low and pro code models with Azure Machine Learning. | [Link](https://github.com/corticalstack/azure-machine-learning-example) |
 | 🦠 A comprehensive platform for exploring COVID-19 research literature and tracking vaccine development climical trial data | [Link](https://github.com/corticalstack/covid-leap) |
 | 🎬 A neural network-based classifier for IMDB movie reviews sentiment analysis using Keras | [Link](https://github.com/corticalstack/ANNImdbClassifier) |
 | 🔢 Keras net for MNIST (National Institute Standards Technology) digits classification | [Link](https://github.com/corticalstack/ANNMNIST) |
