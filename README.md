@@ -4,6 +4,7 @@
 # Generative AI
 | Project/Description | GitHub |
 | --- | --- |
+| 🥗 A culinary-themed introduction to Microsoft's Semantic Kernel framework | [Link](https://github.com/corticalstack/azure-semantic-kernel-snack) |
 | 📚 A curated list of awesome links to essential info, insights, knowledge, learning, and tooling related to Azure Generative AI | [Link](https://github.com/corticalstack/awesome-azure-genai) |
 | 🎭 A comprehensive showcase of Azure AI services and capabilities through interactive demos. | [Link](https://github.com/corticalstack/azure-ai-demo-gallery) |
 | 🏭 Azure AI Foundry examples | [Link](https://github.com/corticalstack/azure-ai-foundry-examples) |
