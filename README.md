@@ -4,7 +4,7 @@
 # Generative AI
 | Project/Description | GitHub |
 | --- | --- |
-| 🤖 A structured workflow for AI-assisted development with manual step-by-step commands or fully autonomous multi-issue processing | [Link](https://github.com/corticalstack/claude-code-flow) |
+| 🤖 A structured workflow for AI-assisted dev with manual step-by-step commands or fully autonomous multi-issue processing | [Link](https://github.com/corticalstack/claude-code-flow) |
 | 🥗 A culinary-themed introduction to Microsoft's Semantic Kernel framework | [Link](https://github.com/corticalstack/azure-semantic-kernel-snack) |
 | 📚 A curated list of awesome links to essential info, insights, knowledge, learning, and tooling related to Azure Generative AI | [Link](https://github.com/corticalstack/awesome-azure-genai) |
 | 🎭 A comprehensive showcase of Azure AI services and capabilities through interactive demos | [Link](https://github.com/corticalstack/azure-ai-demo-gallery) |
