@@ -4,7 +4,10 @@
 # Generative AI
 | Project/Description | GitHub |
 | --- | --- |
+| 📖 An opinionated end-to-end replication kit for Karpathy's LLM-Wiki concept — templates, GitHub Actions, schema, and a /vault skill | [Link](https://github.com/corticalstack/knowledge-vault-ops) |
+
 | 🤖 A structured workflow for AI-assisted dev with manual step-by-step commands or fully autonomous multi-issue processing | [Link](https://github.com/corticalstack/claude-code-flow) |
+| 🏗️  Terraform IaC for a complete hub-and-spoke Azure AI Foundry landing zone — APIM gateway, private networking, and per-team isolation | [Link](https://github.com/corticalstack/foundry-nextgen-lz-terraform) |
 | 🥗 A culinary-themed introduction to Microsoft's Semantic Kernel framework | [Link](https://github.com/corticalstack/azure-semantic-kernel-snack) |
 | 📚 A curated list of awesome links to essential info, insights, knowledge, learning, and tooling related to Azure Generative AI | [Link](https://github.com/corticalstack/awesome-azure-genai) |
 | 🎭 A comprehensive showcase of Azure AI services and capabilities through interactive demos | [Link](https://github.com/corticalstack/azure-ai-demo-gallery) |
