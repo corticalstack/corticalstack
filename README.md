@@ -4,6 +4,7 @@
 # Generative AI
 | Project/Description | GitHub |
 | --- | --- |
+| 🤖 Learn Microsoft Foundry by deploying it. Prompt agents, hosted agents, MCP, guardrails, governance, and tracing, all wired up in code. | [Link](https://github.com/corticalstack/awesome-foundry-nextgen) |
 | 📖 An opinionated replication kit for Karpathy's LLM-Wiki concept — templates, GitHub Actions, schema, and a /vault skill | [Link](https://github.com/corticalstack/knowledge-vault-ops) |
 | 🤖 A structured workflow for AI-assisted dev with manual step-by-step commands or fully autonomous multi-issue processing | [Link](https://github.com/corticalstack/claude-code-flow) |
 | 🏗️  Terraform IaC for a complete hub-and-spoke Azure AI Foundry landing zone — APIM gateway, private networking, and per-team isolation | [Link](https://github.com/corticalstack/foundry-nextgen-lz-terraform) |
